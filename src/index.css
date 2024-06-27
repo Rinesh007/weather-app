@@ -10,8 +10,7 @@
 .app {
   min-height: 100vh;
   display: grid;
-  background-image: url("background Weather.jpg");
-  background-repeat: no-repeat;
+
   height: 500px; /* You must set a specified height */
   background-position: center; /* Center the image */
   background-size: cover;
